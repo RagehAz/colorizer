@@ -7,7 +7,6 @@ import 'package:colorizer/src/text_mod.dart';
 import 'package:flutter/material.dart';
 import 'package:image/image.dart' as img;
 import 'package:numeric/numeric.dart';
-
 import 'src/floaters.dart';
 // -----------------------------------------------------------------------------
 part 'src/methods.dart';
